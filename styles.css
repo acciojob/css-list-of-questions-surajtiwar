@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.blockquote{
+blockquote{
     background-color: #f8fffe;
     height: 50px;
     margin-top: 20px;
@@ -8,7 +8,7 @@
     max-width: 600px;
     border-left: 8px solid green;
 }
-.blockquote{
+blockquote{
     background-color: #f8fffe;
     height: 50px;
     margin-top: 20px;
@@ -16,7 +16,7 @@
     max-width: 600px;
     border-left: 8px solid green;
 }
-.blockquote{
+blockquote{
     background-color: #f8fffe;
     height: 50px;
     margin-top: 20px;
